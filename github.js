@@ -2,7 +2,7 @@ const myForm = document.querySelector(".myForm");
 const card = document.querySelector(".card");
 const miniCard = document.querySelector(".mini-card");
 const userInput = document.querySelector(".user-input");
-const apiKey = "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";
+const apiKey = "GITHUB_API_KEY";
 
 myForm.addEventListener("submit", async event =>{
     event.preventDefault();
