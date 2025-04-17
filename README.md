@@ -60,5 +60,4 @@ Contributions to enhance the functionality or fix bugs are highly appreciated. I
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## Demo Screenshot
-Demo Screenshot of the project:
-`github-profile.png` 
+Demo Screenshot of the project:![GitHub Profile Search Screenshot](github-profile.png)`github-profile.png` 
