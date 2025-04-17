@@ -61,4 +61,4 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 
 ## Demo Screenshot
 Demo Screenshot of the project:
-`![github-profile](https://github.com/user-attachments/assets/8376fa96-e09f-4b96-b07c-b0d905ec3e91)` 
+`` 
