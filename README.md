@@ -1,9 +1,5 @@
 # Github Profile Search
 
-[![License](LICENSE)](LICENSE) [![Last Commit](https://img.shields.io/github/last-commit/Pratham-Parikh/Github-Profile-Search)](https://github.com/Pratham-Parikh/Github-Profile-Search/commits/main) [![Open Issues](https://img.shields.io/github/issues/Pratham-Parikh/Github-Profile-Search)](https://github.com/Pratham-Parikh/Github-Profile-Search/issues)
-[![Pull Requests](https://img.shields.io/github/pulls/Pratham-Parikh/Github-Profile-Search)](https://github.com/Pratham-Parikh/Github-Profile-Search/pulls)
-[![Contributors](https://img.shields.io/github/contributors/Pratham-Parikh/Github-Profile-Search)](https://github.com/Pratham-Parikh/Github-Profile-Search/graphs/contributors)
-
 ## Overview
 
 **Github Profile Search** is a simple web application designed to allow users to easily search for and view GitHub user profiles. By leveraging the GitHub API, it fetches and displays key information about a user upon searching their username.
